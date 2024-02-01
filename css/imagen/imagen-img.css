@@ -1,0 +1,40 @@
+.imagen__img{
+    border-radius: 0px 200px 200px 0px;
+    height: 300px;
+background-image: url(../../img/pil2.jpg);
+background-repeat: none;
+width:800px;
+background-size: cover;
+background-position:left;
+}
+.imagen__texto{
+    width: auto;
+     height: 150px;
+     border-radius: 20px;
+    
+     color: #0073BD;
+     font-family: 'Lemon', serif;
+     font-size: 30px; 
+     width: 100%;
+     text-align:center;
+     top: 140%;
+     left: 50%;
+     position: absolute;
+     transform: translate(-45%,-50%);
+     
+ }
+ .imagen__texto1{
+
+     height: 150px;
+     border-radius: 20px;
+     color: #02090e;
+     font-family: 'Lemon', serif;
+     font-size: 20px; 
+     width: 800px;
+     text-align:center;
+     top: 155%;
+     left: 50%;
+     position: absolute;
+     transform: translate(-0%,-50%);
+     
+ }

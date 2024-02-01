@@ -1,0 +1,14 @@
+.acerca__item{
+    font-family: 'Inder', sans-serif;
+    padding: 0.6rem;
+    background-color: #C6781A;
+    border-radius: 10px;
+    color: #fff;
+    height: 20px;
+    text-align: center;
+    padding-top: 1rem;   
+}
+.acerca__item:hover{
+    color: #003070;
+}
+

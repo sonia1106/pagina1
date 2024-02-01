@@ -1,0 +1,17 @@
+.contactos1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    right: 20px;
+}
+@media screen and (min-width:0) {
+    .contactos1{
+      flex-direction: row;
+    }
+}
+@media screen and (max-width: 780px) {
+      .contactos1 {
+        flex-direction:column;
+
+}
+}

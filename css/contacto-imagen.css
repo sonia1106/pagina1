@@ -1,0 +1,17 @@
+.contacto__imagen{
+background-image: url(img/fondoazul.png);
+width: 1077px;
+height: 465px;
+text-align: center;
+color: white;
+font-size: 36px;
+}
+.contacto__imagen2{
+    background-image: url(img/blanco.png);
+    width: 971px;
+height: 341px;
+position: absolute;
+top: 80px;
+left: 60px;
+border-radius: 100px;
+}

@@ -1,0 +1,19 @@
+.portada{
+    display: flex;
+    background-image: url("../../img/51757587_2486156781456554_2034964949477883904_n\ \(1\).png");
+    height: 300px;
+}
+.portada1{
+    display: flex;
+    background-image: url("../../img/51757587_2486156781456554_2034964949477883904.png");
+}
+@media (max-width: 780px) {
+    .portada1 {
+      flex-direction: column;
+      background-image: none;
+      background-color: #007EC2;
+      align-items: center;
+  }
+}
+
+

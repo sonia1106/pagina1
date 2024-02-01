@@ -1,0 +1,15 @@
+
+.ubicacion{
+    background-image: url(../img4/ubicacion.png);
+    border-radius: 10px;
+    width: 372px;
+    height: 320px;
+
+background-repeat: none;
+flex-shrink: 0;
+background-size:cover;
+background-position: right;
+transform: translate(160%,-50%);
+bottom: 100px;
+position:relative;
+}

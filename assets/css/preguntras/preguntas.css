@@ -1,0 +1,16 @@
+.preguntas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+@media screen and (min-width:0) {
+    .preguntas{
+      flex-direction: row;
+    }
+}
+@media (max-width: 780px) {
+      .preguntas {
+        flex-direction: column;
+      }
+}

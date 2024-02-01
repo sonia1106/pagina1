@@ -1,0 +1,8 @@
+.menu__item{
+    list-style: none; 
+    padding: 1rem;
+    font-size: 15px;    
+}
+.menu__item-active:hover{
+    color: #003070 ;
+}

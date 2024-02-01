@@ -1,0 +1,14 @@
+.footer__linea{
+    padding-left: 6rem;
+    width: 150px;
+}
+@media screen and (min-width:0) {
+    .preguntas{
+      flex-direction: row;
+    }
+}
+@media (max-width: 780px) {
+      .footer__linea{
+        margin-top: 0;
+      }
+}

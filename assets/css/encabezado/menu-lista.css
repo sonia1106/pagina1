@@ -1,0 +1,20 @@
+.menu__lista{
+    display: flex;
+    font-family: 'Inder', sans-serif;
+    padding: 0.1rem;
+    color: #ffffff;
+    text-shadow: 1px 2px 4px #fd910c;
+    
+}
+@media screen and (min-width:0) {
+    .menu__lista{
+      flex-direction: row;
+    }
+}
+@media (max-width: 780px) {
+      .menu__lista {
+        flex-direction: column;
+        display: block;
+     
+      }
+}

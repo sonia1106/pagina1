@@ -1,0 +1,80 @@
+
+
+
+.contacto__imagen{
+   
+background-color: #007FC2;
+width: 1083px;
+height: 465px;
+text-align: center;
+color: white;
+font-size: 36px;
+
+}
+.contacto__imagen2{
+    display: flex;
+    background-color: white;
+    width: 971px;
+height: 341px;
+position: absolute;
+top: 80px;
+left: 60px;
+border-radius: 100px;
+
+}
+.email{
+   
+
+    font-size: 24px;
+border-radius: 10px;
+    background-color: #007FC2;
+    width: 354px;
+    height: 65px;
+position: absolute;
+top: 10px;
+left: 60px;
+
+}
+.telefono{
+   
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: #007FC2;
+    width: 344px;
+    height: 65px;
+position: absolute;
+top: 10px;
+left: 561px;
+}
+.nombre{
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: #007FC2;
+    width: 845px;
+height: 65px;
+position: absolute;
+top: 85px;
+left: 60px;
+}
+.mensaje{
+    font-size: 24px;
+
+    border-radius: 10px;
+    background-color: #007FC2;
+    width: 845px;
+height: 116px;
+position: absolute;
+top: 160px;
+left: 60px;
+
+}
+.boton{
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: #007FC2;
+    width: 600px;
+height: 30px;
+position: absolute;
+top: 285px;
+left: 180px;
+}

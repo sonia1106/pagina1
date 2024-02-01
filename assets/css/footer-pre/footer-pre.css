@@ -1,0 +1,14 @@
+.footer__pre{
+    background-image: url("../../img/subcat-1340.jpg");
+    height: 400px;
+}
+@media screen and (min-width:0) {
+    .footer__pre{
+      flex-direction: row;
+    }
+}
+@media (max-width: 780px) {
+      .footer__pre {
+        flex-direction: column;
+      }
+}
